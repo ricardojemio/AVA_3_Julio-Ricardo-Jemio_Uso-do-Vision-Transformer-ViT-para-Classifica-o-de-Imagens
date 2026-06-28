@@ -1,0 +1,1 @@
+# AVA_3_Julio-Ricardo-Jemio_Uso-do-Vision-Transformer-ViT-para-Classifica-o-de-Imagens
